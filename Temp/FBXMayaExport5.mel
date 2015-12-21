@@ -1,0 +1,23 @@
+print "Starting maya loading and fbx conversion \n";
+	
+if (`file -q -exists "/Users/kmiller/Documents/class documents/N485-AR/UnityProjects/DeskWars/Assets/Maya/DeskWars/scenes/missile.mb"`)
+{		
+	file -o "/Users/kmiller/Documents/class documents/N485-AR/UnityProjects/DeskWars/Assets/Maya/DeskWars/scenes/missile.mb";
+	FBXExportEmbeddedTextures -v false;
+	// FBXExportHardEdges -v true;
+	FBXExportApplyConstantKeyReducer -v false;
+	FBXExportShowUI -v false;
+
+	print "Before fbx export\n";
+	FBXExport -f "/Users/kmiller/Documents/class documents/N485-AR/UnityProjects/DeskWars/Temp/ExportedFBXFile.fbx";
+	print "after fbx export\n";
+}
+else
+	print "Could not open Maya file.";
+
+
+system ("rm \"/Users/kmiller/Documents/class documents/N485-AR/UnityProjects/DeskWars/Temp/CommandPipe\"");
+
+$donepipeKill = `fopen "/Users/kmiller/Documents/class documents/N485-AR/UnityProjects/DeskWars/Temp/SyncPipeKill" "w"`;
+fwrite $donepipeKill "Done";
+fclose $donepipeKill;

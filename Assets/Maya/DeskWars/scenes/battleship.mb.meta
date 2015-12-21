@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: e4c1b0c79e4874c40b72b1326a808f40
+timeCreated: 1433075294
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: barrels
+    100002: barrels 1
+    100004: barrels 2
+    100006: barrels 3
+    100008: barrels 4
+    100010: barrels 5
+    100012: barrels 6
+    100014: barrels 7
+    100016: barrels 8
+    100018: barrels 9
+    100020: //RootNode
+    100022: deckGun1
+    100024: deckGun16_1
+    100026: deckGun16_2
+    100028: deckGun16_3
+    100030: deckGun17
+    100032: deckGun18
+    100034: deckGun19
+    100036: deckGun20
+    100038: deckGun21
+    100040: deckGun22
+    100042: deckGun23
+    100044: deckGun24
+    100046: deckGun25
+    100048: hull
+    100050: water
+    100052: barrels1
+    100054: barrels2
+    100056: barrels3
+    100058: barrels4
+    100060: barrels5
+    100062: barrels6
+    100064: barrels7
+    100066: barrels8
+    100068: barrels9
+    100070: deckGun16_4
+    100072: deckGun16_5
+    100074: barrels4 1
+    100076: barrels4 2
+    100078: barrels4 3
+    100080: barrels4 4
+    100082: barrels4 5
+    100084: barrels4 6
+    100086: barrels4 7
+    100088: barrels4 8
+    100090: barrels4 9
+    100092: deckGun26
+    100094: deckGun27
+    100096: deckGun28
+    100098: deckGun29
+    100100: deckGun30
+    100102: deckGun31
+    100104: deckGun32
+    100106: deckGun33
+    100108: deckGun34
+    400000: barrels
+    400002: barrels 1
+    400004: barrels 2
+    400006: barrels 3
+    400008: barrels 4
+    400010: barrels 5
+    400012: barrels 6
+    400014: barrels 7
+    400016: barrels 8
+    400018: barrels 9
+    400020: //RootNode
+    400022: deckGun1
+    400024: deckGun16_1
+    400026: deckGun16_2
+    400028: deckGun16_3
+    400030: deckGun17
+    400032: deckGun18
+    400034: deckGun19
+    400036: deckGun20
+    400038: deckGun21
+    400040: deckGun22
+    400042: deckGun23
+    400044: deckGun24
+    400046: deckGun25
+    400048: hull
+    400050: water
+    400052: barrels1
+    400054: barrels2
+    400056: barrels3
+    400058: barrels4
+    400060: barrels5
+    400062: barrels6
+    400064: barrels7
+    400066: barrels8
+    400068: barrels9
+    400070: deckGun16_4
+    400072: deckGun16_5
+    400074: barrels4 1
+    400076: barrels4 2
+    400078: barrels4 3
+    400080: barrels4 4
+    400082: barrels4 5
+    400084: barrels4 6
+    400086: barrels4 7
+    400088: barrels4 8
+    400090: barrels4 9
+    400092: deckGun26
+    400094: deckGun27
+    400096: deckGun28
+    400098: deckGun29
+    400100: deckGun30
+    400102: deckGun31
+    400104: deckGun32
+    400106: deckGun33
+    400108: deckGun34
+    2300000: barrels
+    2300002: barrels 1
+    2300004: barrels 2
+    2300006: barrels 3
+    2300008: barrels 4
+    2300010: barrels 5
+    2300012: barrels 6
+    2300014: barrels 7
+    2300016: barrels 8
+    2300018: barrels 9
+    2300020: deckGun1
+    2300022: deckGun16_1
+    2300024: deckGun16_2
+    2300026: deckGun16_3
+    2300028: deckGun17
+    2300030: deckGun18
+    2300032: deckGun19
+    2300034: deckGun20
+    2300036: deckGun21
+    2300038: deckGun22
+    2300040: deckGun23
+    2300042: deckGun24
+    2300044: deckGun25
+    2300046: hull
+    2300048: water
+    2300050: barrels1
+    2300052: barrels2
+    2300054: barrels3
+    2300056: barrels4
+    2300058: barrels5
+    2300060: barrels6
+    2300062: barrels7
+    2300064: barrels8
+    2300066: barrels9
+    2300068: deckGun16_4
+    2300070: deckGun16_5
+    2300072: barrels4 1
+    2300074: barrels4 2
+    2300076: barrels4 3
+    2300078: barrels4 4
+    2300080: barrels4 5
+    2300082: barrels4 6
+    2300084: barrels4 7
+    2300086: barrels4 8
+    2300088: barrels4 9
+    2300090: deckGun26
+    2300092: deckGun27
+    2300094: deckGun28
+    2300096: deckGun29
+    2300098: deckGun30
+    2300100: deckGun31
+    2300102: deckGun32
+    2300104: deckGun33
+    2300106: deckGun34
+    3300000: barrels
+    3300002: barrels 1
+    3300004: barrels 2
+    3300006: barrels 3
+    3300008: barrels 4
+    3300010: barrels 5
+    3300012: barrels 6
+    3300014: barrels 7
+    3300016: barrels 8
+    3300018: barrels 9
+    3300020: deckGun1
+    3300022: deckGun16_1
+    3300024: deckGun16_2
+    3300026: deckGun16_3
+    3300028: deckGun17
+    3300030: deckGun18
+    3300032: deckGun19
+    3300034: deckGun20
+    3300036: deckGun21
+    3300038: deckGun22
+    3300040: deckGun23
+    3300042: deckGun24
+    3300044: deckGun25
+    3300046: hull
+    3300048: water
+    3300050: barrels1
+    3300052: barrels2
+    3300054: barrels3
+    3300056: barrels4
+    3300058: barrels5
+    3300060: barrels6
+    3300062: barrels7
+    3300064: barrels8
+    3300066: barrels9
+    3300068: deckGun16_4
+    3300070: deckGun16_5
+    3300072: barrels4 1
+    3300074: barrels4 2
+    3300076: barrels4 3
+    3300078: barrels4 4
+    3300080: barrels4 5
+    3300082: barrels4 6
+    3300084: barrels4 7
+    3300086: barrels4 8
+    3300088: barrels4 9
+    3300090: deckGun26
+    3300092: deckGun27
+    3300094: deckGun28
+    3300096: deckGun29
+    3300098: deckGun30
+    3300100: deckGun31
+    3300102: deckGun32
+    3300104: deckGun33
+    3300106: deckGun34
+    4300000: hull
+    4300002: deckGun1
+    4300004: barrels
+    4300006: deckGun20
+    4300008: barrels
+    4300010: deckGun17
+    4300012: barrels
+    4300014: deckGun19
+    4300016: barrels
+    4300018: deckGun18
+    4300020: barrels
+    4300022: deckGun16_1
+    4300024: deckGun16_2
+    4300026: deckGun16_3
+    4300028: deckGun25
+    4300030: barrels
+    4300032: deckGun22
+    4300034: barrels
+    4300036: deckGun24
+    4300038: barrels
+    4300040: deckGun21
+    4300042: barrels
+    4300044: deckGun23
+    4300046: barrels
+    4300048: water
+    4300050: barrels1
+    4300052: barrels2
+    4300054: barrels3
+    4300056: barrels4
+    4300058: barrels5
+    4300060: barrels6
+    4300062: barrels7
+    4300064: barrels8
+    4300066: barrels9
+    4300068: deckGun16_4
+    4300070: deckGun16_5
+    4300072: deckGun26
+    4300074: barrels4
+    4300076: deckGun27
+    4300078: barrels4
+    4300080: deckGun28
+    4300082: barrels4
+    4300084: deckGun29
+    4300086: barrels4
+    4300088: deckGun30
+    4300090: barrels4
+    4300092: deckGun31
+    4300094: barrels4
+    4300096: deckGun32
+    4300098: barrels4
+    4300100: deckGun33
+    4300102: barrels4
+    4300104: deckGun34
+    4300106: barrels4
+    7400000: steam
+    7400002: sink
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: steam
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: hull
+        weight: 1
+      - path: hull/deckGun1
+        weight: 1
+      - path: hull/deckGun1/barrels4
+        weight: 1
+      - path: hull/deckGun16_1
+        weight: 1
+      - path: hull/deckGun16_2
+        weight: 1
+      - path: hull/deckGun16_3
+        weight: 1
+      - path: hull/deckGun17
+        weight: 1
+      - path: hull/deckGun17/barrels2
+        weight: 1
+      - path: hull/deckGun18
+        weight: 1
+      - path: hull/deckGun18/barrels
+        weight: 1
+      - path: hull/deckGun19
+        weight: 1
+      - path: hull/deckGun19/barrels1
+        weight: 1
+      - path: hull/deckGun20
+        weight: 1
+      - path: hull/deckGun20/barrels3
+        weight: 1
+      - path: hull/deckGun21
+        weight: 1
+      - path: hull/deckGun21/barrels8
+        weight: 1
+      - path: hull/deckGun22
+        weight: 1
+      - path: hull/deckGun22/barrels6
+        weight: 1
+      - path: hull/deckGun23
+        weight: 1
+      - path: hull/deckGun23/barrels9
+        weight: 1
+      - path: hull/deckGun24
+        weight: 1
+      - path: hull/deckGun24/barrels7
+        weight: 1
+      - path: hull/deckGun25
+        weight: 1
+      - path: hull/deckGun25/barrels5
+        weight: 1
+      - path: water
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: sink
+      takeName: Take 001
+      firstFrame: 8
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: hull
+        weight: 1
+      - path: hull/deckGun1
+        weight: 1
+      - path: hull/deckGun1/barrels4
+        weight: 1
+      - path: hull/deckGun16_1
+        weight: 1
+      - path: hull/deckGun16_2
+        weight: 1
+      - path: hull/deckGun16_3
+        weight: 1
+      - path: hull/deckGun17
+        weight: 1
+      - path: hull/deckGun17/barrels2
+        weight: 1
+      - path: hull/deckGun18
+        weight: 1
+      - path: hull/deckGun18/barrels
+        weight: 1
+      - path: hull/deckGun19
+        weight: 1
+      - path: hull/deckGun19/barrels1
+        weight: 1
+      - path: hull/deckGun20
+        weight: 1
+      - path: hull/deckGun20/barrels3
+        weight: 1
+      - path: hull/deckGun21
+        weight: 1
+      - path: hull/deckGun21/barrels8
+        weight: 1
+      - path: hull/deckGun22
+        weight: 1
+      - path: hull/deckGun22/barrels6
+        weight: 1
+      - path: hull/deckGun23
+        weight: 1
+      - path: hull/deckGun23/barrels9
+        weight: 1
+      - path: hull/deckGun24
+        weight: 1
+      - path: hull/deckGun24/barrels7
+        weight: 1
+      - path: hull/deckGun25
+        weight: 1
+      - path: hull/deckGun25/barrels5
+        weight: 1
+      - path: water
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
